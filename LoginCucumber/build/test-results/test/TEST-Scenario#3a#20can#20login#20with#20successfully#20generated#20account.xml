@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: can login with successfully generated account" tests="5" skipped="4" failures="0" errors="0" timestamp="2018-11-18T17:42:52" hostname="blacksheepUbuntu" time="0.002">
+  <properties/>
+  <testcase name="Given user &quot;user&quot; with password &quot;password123&quot; is created" classname="Scenario: can login with successfully generated account" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="And command login is selected" classname="Scenario: can login with successfully generated account" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="When username &quot;user&quot; and password &quot;password123&quot; are entered" classname="Scenario: can login with successfully generated account" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then system will respond with &quot;logged in&quot;" classname="Scenario: can login with successfully generated account" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Scenario: can login with successfully generated account" time="0.003"/>
+  <system-out><![CDATA[
+  Scenario: creation fails with valid username and password enough long but consisting of only letters ?[90m# ohtu/new_user.feature:23?[0m
+    ?[33mGiven ?[0m?[33mcommand new user is selected?[0m
+    ?[36mWhen ?[0m?[36musername "?[0m?[36m?[1muser?[0m?[36m" and password "?[0m?[36m?[1mpassword?[0m?[36m" are entered?[0m                                           ?[90m# Stepdefs.a_username_and_password_are_entered(String,String)?[0m
+    ?[36mThen ?[0m?[36msystem will respond with "?[0m?[36m?[1mnew user not registered?[0m?[36m"?[0m                                            ?[90m# Stepdefs.system_will_respond_with(String)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
