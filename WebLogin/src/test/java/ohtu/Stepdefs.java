@@ -151,7 +151,6 @@ public class Stepdefs {
 
         assertTrue(driver.getPageSource().contains("Create username and give password"));
         WebElement element = driver.findElement(By.name("username"));
-
         element.sendKeys(username);
         element = driver.findElement(By.name("password"));
         element.sendKeys(password);

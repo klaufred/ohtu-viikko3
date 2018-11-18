@@ -39,11 +39,11 @@ public class AuthenticationService {
         }
 
         if (!username.matches("[a-zA-Z]*")) {
-            status.addError("username has characters other than a-z");
+            status.addError("username can not have characters aside from a-z");
         }
 
         if (password.matches("[a-zA-Z]*")) {
-            status.addError("password should have at least 1 special character");
+            status.addError("password must have at least 1 special character");
         }
 
         if (password.length() < 8) {
