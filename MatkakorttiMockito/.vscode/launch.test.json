@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "MatkakorttiMockito",
+                "projectName": "MatkakorttiMockito",
+                "workingDirectory": "/home/blacksheep/Projects/ohtu-viikko3/MatkakorttiMockito",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "MatkakorttiMockito",
+                "projectName": "MatkakorttiMockito",
+                "workingDirectory": "/home/blacksheep/Projects/ohtu-viikko3/MatkakorttiMockito",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
