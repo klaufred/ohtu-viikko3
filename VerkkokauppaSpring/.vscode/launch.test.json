@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "VerkkokauppaSpring",
+                "projectName": "VerkkokauppaSpring",
+                "workingDirectory": "/home/blacksheep/Projects/ohtu-viikko3/VerkkokauppaSpring",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "VerkkokauppaSpring",
+                "projectName": "VerkkokauppaSpring",
+                "workingDirectory": "/home/blacksheep/Projects/ohtu-viikko3/VerkkokauppaSpring",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

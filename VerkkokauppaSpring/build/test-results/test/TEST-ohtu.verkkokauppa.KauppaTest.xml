@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-11-19T19:21:11" hostname="blacksheepUbuntu" time="0.402">
+  <properties/>
+  <testcase name="uusiViitenumeroUudelleMaksulle" classname="ohtu.verkkokauppa.KauppaTest" time="0.396"/>
+  <testcase name="aloitaAsiointiToimii" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiTilisiirtoToimiiKahdellaTuotteelĺaJoistaYksiLopussa" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiTilisiirtoToimiiOikein" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="poistoKoristaToimii" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiTilisiirtoToimiiOikeinKahdellaTuotteelĺa" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiTilisiirtoToimiiOikeinKahdellaSamallaTuotteelĺa" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
